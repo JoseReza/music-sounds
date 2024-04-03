@@ -18,6 +18,7 @@ export const Sounds = ({ navbarSearchValue, onChangeCounter }) => {
                 },
             });
             const responseParse = await response.json();
+            console.log(responseParse);
             let paths = responseParse;
             let filteredPaths = [];
             for (let path of paths) {

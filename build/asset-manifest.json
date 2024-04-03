@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/music-sounds/build/static/css/main.b9929abf.css",
-    "main.js": "/music-sounds/build/static/js/main.6a925c34.js",
+    "main.js": "/music-sounds/build/static/js/main.76859250.js",
     "static/js/453.522a94d2.chunk.js": "/music-sounds/build/static/js/453.522a94d2.chunk.js",
     "index.html": "/music-sounds/build/index.html",
     "static/media/icon.svg": "/music-sounds/build/static/media/icon.fadea290d7e3856b928dd11fc3d73e14.svg",
     "main.b9929abf.css.map": "/music-sounds/build/static/css/main.b9929abf.css.map",
-    "main.6a925c34.js.map": "/music-sounds/build/static/js/main.6a925c34.js.map",
+    "main.76859250.js.map": "/music-sounds/build/static/js/main.76859250.js.map",
     "453.522a94d2.chunk.js.map": "/music-sounds/build/static/js/453.522a94d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9929abf.css",
-    "static/js/main.6a925c34.js"
+    "static/js/main.76859250.js"
   ]
 }
