@@ -21,6 +21,9 @@ async function start() {
             let newPath = path;
             newPath = String(newPath).replace(/\\/g, '/');
             newPath = String(newPath).replace("#", 's');
+            let splittedPath = newPath.split("/");
+            
+            newPath = String(splittedPath[0] + "/" + String(splittedPath[1]).replace(/[^A-Ga-g0-9mp3wav.]/, ''));
 
             while (String(newPath).includes(" ")) {
                 newPath = String(newPath).replace(" ", '');
